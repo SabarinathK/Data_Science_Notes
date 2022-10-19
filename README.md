@@ -1,1 +1,1 @@
-# python-basics
+# Data Science Notes
